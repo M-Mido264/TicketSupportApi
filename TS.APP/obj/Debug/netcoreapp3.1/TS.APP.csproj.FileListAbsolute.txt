@@ -1,0 +1,14 @@
+C:\Users\source\source\repos\TicketSupport\TS.APP\bin\Debug\netcoreapp3.1\TS.APP.deps.json
+C:\Users\source\source\repos\TicketSupport\TS.APP\bin\Debug\netcoreapp3.1\TS.APP.dll
+C:\Users\source\source\repos\TicketSupport\TS.APP\bin\Debug\netcoreapp3.1\TS.APP.pdb
+C:\Users\source\source\repos\TicketSupport\TS.APP\bin\Debug\netcoreapp3.1\TS.BL.dll
+C:\Users\source\source\repos\TicketSupport\TS.APP\bin\Debug\netcoreapp3.1\TS.DAL.dll
+C:\Users\source\source\repos\TicketSupport\TS.APP\bin\Debug\netcoreapp3.1\TS.BL.pdb
+C:\Users\source\source\repos\TicketSupport\TS.APP\bin\Debug\netcoreapp3.1\TS.DAL.pdb
+C:\Users\source\source\repos\TicketSupport\TS.APP\obj\Debug\netcoreapp3.1\TS.APP.csprojAssemblyReference.cache
+C:\Users\source\source\repos\TicketSupport\TS.APP\obj\Debug\netcoreapp3.1\TS.APP.csproj.CoreCompileInputs.cache
+C:\Users\source\source\repos\TicketSupport\TS.APP\obj\Debug\netcoreapp3.1\TS.APP.AssemblyInfoInputs.cache
+C:\Users\source\source\repos\TicketSupport\TS.APP\obj\Debug\netcoreapp3.1\TS.APP.AssemblyInfo.cs
+C:\Users\source\source\repos\TicketSupport\TS.APP\obj\Debug\netcoreapp3.1\TS.APP.csproj.CopyComplete
+C:\Users\source\source\repos\TicketSupport\TS.APP\obj\Debug\netcoreapp3.1\TS.APP.dll
+C:\Users\source\source\repos\TicketSupport\TS.APP\obj\Debug\netcoreapp3.1\TS.APP.pdb

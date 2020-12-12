@@ -1,0 +1,4 @@
+C:\Users\source\source\repos\TicketSupport\TS.UI\obj\Debug\netcoreapp3.1\TS.UI.csprojAssemblyReference.cache
+C:\Users\source\source\repos\TicketSupport\TS.UI\obj\Debug\netcoreapp3.1\TS.UI.csproj.CoreCompileInputs.cache
+C:\Users\source\source\repos\TicketSupport\TS.UI\obj\Debug\netcoreapp3.1\TS.UI.AssemblyInfoInputs.cache
+C:\Users\source\source\repos\TicketSupport\TS.UI\obj\Debug\netcoreapp3.1\TS.UI.AssemblyInfo.cs
