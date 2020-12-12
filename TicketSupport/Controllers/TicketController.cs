@@ -11,7 +11,6 @@ using TS.DAL.Models;
 namespace TicketSupport.Controllers
 {
     [Route("api/[controller]")]
-    [Authorize]
     [ApiController]
     public class TicketController : ControllerBase
     {

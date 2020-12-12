@@ -25,7 +25,6 @@ namespace TicketSupport.Controllers
             this.userService = userService;
         }
 
-       // [Authorize]
         [HttpGet]
         public IActionResult Get()
         {
